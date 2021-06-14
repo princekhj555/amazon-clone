@@ -22,7 +22,12 @@ Run commands
 
 3) ```yarn run dev```
 
+### This project is Build Using
 
-### If you see the window below then you are set to build AMAZON 2.0!
+1) ReactJS
+2) Redux
+3) firebase 
+4) NextJs
+5) Tailwind CSS
+6) FakeStore API
 
-![Template Screenshot](TemplateScreenshot.jpg?raw=true "Template Screenshot")
